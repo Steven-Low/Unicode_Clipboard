@@ -26,3 +26,6 @@ The grid weights are configured to allow buttons to expand. Clicking a button co
 - You can modify the font, button dimensions, or any other GUI properties to suit your preferences.
 
 Feel free to customize and extend the code according to your needs!
+
+## Demo
+<img width="273" alt="image" src="https://github.com/Steven-Low/Unicode_Clipboard/assets/106484271/22fbdf66-ac5c-464b-8a3f-4a5cafa808b4">
